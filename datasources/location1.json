@@ -1,0 +1,43 @@
+{
+ "location": {
+   "name":"Лавка Вонга, Технопарк",
+   "aura":"5884e1a6fb27046749fe",
+   "manalevel": 0
+ },
+ "spirits": [
+    {
+     "name": "ШырБырМек",
+     "aura": "2ffb8d4976208d3d7093",
+     "friendship": 5,
+     "health": 3,
+     "skills": [
+       {"name": "bulletproof"},
+       {"name": "weatherproof"}
+     ]
+   },
+   {
+     "name": "КышБырМыр",
+     "aura": "9a5dabebf1bfff6094c4",
+     "friendship": 3,
+     "health": 7,
+     "skills": [
+       {"name": "heavy hands"}
+     ]
+   }
+ ],
+ "spells": [
+    {
+     "name": "Fireball",
+     "aura": "db73b2920e0a412128ed",
+     "tradition": "aztec",
+     "timestamp": 1571947193
+    },
+    {
+     "name": "Trackball",
+     "aura": "2f491da86d5dad3aface",
+     "tradition": "orthodox",
+     "timestamp": 1571947235
+    }
+ ]
+}
+
